@@ -4,9 +4,9 @@
 //| |    / _ \|  _|  _/ _ \/ _ \ | \ \ /\ / / _ \/ _ \ __/ _ \ '__| 
 //| \__/\ (_) | | | ||  __/  __/ | |\ V  V /  __/  __/ ||  __/ |    
 // \____/\___/|_| |_| \___|\___| \_/ \_/\_/ \___|\___|\__\___|_|    
-//                           ______                                 
-//                          |______|                                
-// http://www.twitter.com/coffee_tweeter v.2.2
+//                                                            V.2.2                                 
+//                           
+// http://www.twitter.com/coffee_tweeter 
 
 // Pins: 7 & GND
 // Don't forget to set IP adress before uploading!
